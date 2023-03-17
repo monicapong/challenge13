@@ -17,7 +17,10 @@ This is a back end e-commerce website that uses the latest technologies to inter
 
 To use this application, you will need to perform the following steps:
 
-1. Clone the repository to your local machine using  **git clone git@github.com:monicapong/eCommerceBackEnd.git** .
+1. Clone the repository to your local machine using
+   ```
+   git clone git@github.com:monicapong/eCommerceBackEnd.git
+   ```
 2. Navigate to the root directory of the project and run **npm install** to install the necessary dependencies.
 3. Create an environment variable file **.env** and add the following:
 
@@ -66,7 +69,7 @@ The following routes are available:
 
 **Walkthrough Video**
 
-Please refer to [this walkthrough video](https://drive.google.com/file/d/12wSdiF4DHoPdlD7p-oiiKRIVZHia4gVZ/view?usp=sharing ) to see the functionality of the application.
+Please refer to [this walkthrough video](https://drive.google.com/file/d/12wSdiF4DHoPdlD7p-oiiKRIVZHia4gVZ/view?usp=sharing) to see the functionality of the application.
 
 **Technologies Used**
 
